@@ -1,6 +1,6 @@
 {
-  "name": "template",
-  "private": true,
+  "name": "@raydeck/registry-manager-cli",
+  "private": false,
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhdeck/base.git"
+    "url": "https://github.com/rhdeck/registry-manager-cli.git"
   },
   "author": "Ray Deck",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rhdeck/base/issues"
+    "url": "https:/github.com/rhdeck/registry-manager-cli/issues"
   },
-  "homepage": "https://github.com/rhdeck/base#readme",
+  "homepage": "https://github.com/rhdeck/registry-manager-cli#README",
   "devDependencies": {
     "@commitlint/cli": "^9.1.1",
     "@commitlint/config-conventional": "^9.1.1",
@@ -50,6 +50,8 @@
     "lib"
   ],
   "dependencies": {
+    "@raydeck/registry-manager": "^1.1.0",
+    "@raydeck/serverless-stage": "^3.2.0",
     "commander": "^6.0.0",
     "inquirer": "^7.3.3"
   },

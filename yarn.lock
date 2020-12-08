@@ -209,6 +209,27 @@
     recursive-copy "^2.0.10"
     untildify "^4.0.0"
 
+"@raydeck/registry-manager@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@raydeck/registry-manager/-/registry-manager-1.1.0.tgz#fa8607a45550ec7e5f27bdc8fba3f71ea53b0b96"
+  integrity sha512-MxmmV6i/m7SYQyCU7Chd7+zBtYh4MuxJJxUVoJ4bNxYhyp4FtynsVVRbsEBgSO6to+4UQDjkSaZPVX3ILYUb0A==
+
+"@raydeck/serverless-base@^1.0.2":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@raydeck/serverless-base/-/serverless-base-1.0.5.tgz#e561840503a50ec8facb4d1dc6481b91f9eafcb7"
+  integrity sha512-jmKmJo2/g1s2A1Ojmt7dw933vACI1B9Ge5XxuLxazP0ZxfybIvHA7AZpiJaj6sedZs1EwuwqpmIu/fQtLP0wAA==
+  dependencies:
+    commander "^6.0.0"
+
+"@raydeck/serverless-stage@^3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@raydeck/serverless-stage/-/serverless-stage-3.2.0.tgz#2a1f5513ed7dc2e95f18cfb21846f9dfa6dd3d61"
+  integrity sha512-+U2O9uO2CJTQGbivORY8SsP6mRbTkm053IXPBEaCuE0SF44TglV6MBGF/XqXiI+Ff8TA7KjPR2ND16X8C0ktbA==
+  dependencies:
+    "@raydeck/livelink" "^1.5.2"
+    "@raydeck/serverless-base" "^1.0.2"
+    commander "^6.0.0"
+
 "@raydeck/wml@^0.0.2":
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/@raydeck/wml/-/wml-0.0.2.tgz#8396fb7716f0c5d9087c36b4af40b514141d1af3"
