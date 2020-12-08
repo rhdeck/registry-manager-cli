@@ -45,7 +45,7 @@ Get registry options from serverless source path
 <a name="_librarymd"></a>
 
 
-# @raydeck/registry-manager-cli - v1.0.1
+# @raydeck/registry-manager-cli - v1.0.2
 
 ## Index
 
@@ -59,7 +59,7 @@ Get registry options from serverless source path
 
 ▸ **configureRegistry**(`path`: string): *any*
 
-*Defined in [index.ts:7](https://github.com/rhdeck/registry-manager-cli/blob/eee299d/src/index.ts#L7)*
+*Defined in [index.ts:7](https://github.com/rhdeck/registry-manager-cli/blob/a00c270/src/index.ts#L7)*
 
 **Parameters:**
 
