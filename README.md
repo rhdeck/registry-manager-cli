@@ -59,7 +59,7 @@ Get registry options from serverless source path
 
 ▸ **configureRegistry**(`path`: string): *any*
 
-*Defined in [index.ts:7](https://github.com/rhdeck/registry-manager-cli/blob/4ce4271/src/index.ts#L7)*
+*Defined in [index.ts:7](https://github.com/rhdeck/registry-manager-cli/blob/0aa3123/src/index.ts#L7)*
 
 **Parameters:**
 
